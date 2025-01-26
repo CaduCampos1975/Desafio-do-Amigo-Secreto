@@ -2,6 +2,9 @@
 <p>O projeto Amigo Secreto é uma aplicação simples para ajudar a organizar o tradicional jogo de amigo secreto. Ele permite que os usuários adicionem nomes à lista, realizem o sorteio de forma aleatória e visualizem o resultado na tela. A ideia é tornar a organização do amigo secreto mais prática e divertida.</p>
 
 <h2>Funcionalidades </h2>
+
+<p> Neste projeto, além das funcionalidades pedidas, fiz alguns incrementos que achei necessário como por exemplo colocar o cursor automaticamente no campo após adicionar um novo nome, verificação se o nome já existe na lista, verificação se existe um ou mais nomes. Caso haja apenas um nome na lista, informar que precisa de ao menos dois números para rodar o sorteio. Abaixo eu especfico tudo que fiz. 
+
 <p><b>Adicionar amigos à lista:</b> O usuário pode adicionar os nomes dos amigos digitando-os em um campo de texto e clicando em um botão ou pressionando a tecla Enter.</br></br>
 <b>Validação de entrada:</b> Antes de adicionar um nome à lista, o sistema valida se o campo está vazio ou se o nome já existe na lista.</br></br>
 <b>Cursor/Enter:</b> Adicionei a funcionalidade do cursor voltar ao campo de digitação após adicionar novo amigo e o clique no botão Enter do teclado funcionar como o botão.</br></br>
@@ -20,3 +23,6 @@
 </br>
 <h3>Criação e Autoria</h3>
 <p>O projeto Amigo Secreto é desafio apresentado pelo "Challenge" do One Next Education Oracle. O conceito do projeto é da Alura/Oracle. Contudo a criação do código foi feita por mim - <b>Carlos Eduardo Campos dos Anjos</b> - com base nos conhecimentos adquiridos nos cursos da Alura e também através de pesquisas.</p>
+</br>
+<h3>Link do Projeto no Vercell</h3>
+<p>https://desafio-do-amigo-secreto.vercel.app/</p>
